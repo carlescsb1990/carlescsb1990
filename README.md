@@ -2,7 +2,7 @@
 
 <p style="font-size: x-large;">⚡ A self-taught programmer with a lot of ideas ⚡</P><br>
 
-- 🔭 I’m currently working on <a href="https://www.anonfy.com"><b>anonfy.com</b></a> and <a href="https://www.tripame.com"><b>tripame.com</b></a>
+- 🔭 I’m currently working on  <a href="https://www.influsnap.com"><b>InfluSnap.com</b></a>
 - 🌱 I’m currently learning Flutter
 
 <br>
