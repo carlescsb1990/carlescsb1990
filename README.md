@@ -1,11 +1,7 @@
 <h1>Hi 👋, I'm Carles! नमस्ते (Namaste)🙏🏻</h1>
 
-<p style="font-size: x-large;">⚡ A self-taught programmer with a lot of ideas ⚡</P><br>
-
 <br>
-Connect with me:
-
-<a href="https://www.linkedin.com/in/carles-siles/">LINKEDIN</a>
+Connect with me on <a href="https://www.linkedin.com/in/carles-siles/">LINKEDIN</a>
 
 
 <pre lang="text" class="notranslate"><code>
