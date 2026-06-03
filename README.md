@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Carles! नमस्ते (Namaste)🙏🏻</h1>
 
 <br><br>
-Connect with me on <a href="https://www.linkedin.com/in/carles-siles/">LINKEDIN</a>
+Connect with me on <a href="https://www.linkedin.com/in/carles-siles/">LINKEDIN</a> or <a href="https://instagram.com/carles.siles/">INSTAGRAM</a>
 
 
 <pre lang="text" class="notranslate"><code>
