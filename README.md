@@ -8,13 +8,15 @@ Connect with me:
 <a href="https://www.linkedin.com/in/carles-siles/">LINKEDIN</a>
 
 
-<pre lang="text" class="notranslate"><code>🌞 Morning                2017 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
-🌆 Daytime                4239 commits        ████████░░░░░░░░░░░░░░░░░   33.04 % 
-🌃 Evening                4725 commits        █████████░░░░░░░░░░░░░░░░   36.83 % 
-🌙 Night                  1849 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
+<pre lang="text" class="notranslate">
+<code>
+🌞 Morning               ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
+🌆 Daytime               ████████░░░░░░░░░░░░░░░░░   33.04 % 
+🌃 Evening               █████████░░░░░░░░░░░░░░░░   36.83 % 
+🌙 Night                 ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
 </code></pre>
 
-📅 I'm most productive on Sunday
+📅 I'm most productive on Sunday 🌞
 
 Monday                   1600 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % <br>
 Tuesday                  1844 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.37 % <br>
