@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Carles!</h1>
+<h1>Hi 👋, I'm Carles! नमस्ते (Namaste)🙏🏻</h1>
 
 <p style="font-size: x-large;">⚡ A self-taught programmer with a lot of ideas ⚡</P><br>
 
