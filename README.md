@@ -10,9 +10,13 @@ Connect with me:
 I'm a Night 🦉
 
 🌞 Morning                2017 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
+
 🌆 Daytime                4239 commits        ████████░░░░░░░░░░░░░░░░░   33.04 % 
+
 🌃 Evening                4725 commits        █████████░░░░░░░░░░░░░░░░   36.83 % 
+
 🌙 Night                  1849 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
+
 📅 I'm most productive on Sunday
 
 Monday                   1600 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
