@@ -9,43 +9,39 @@ Connect with me:
 
 I'm a Night 🦉
 
-🌞 Morning                2017 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
-🌆 Daytime                4239 commits        ████████░░░░░░░░░░░░░░░░░   33.04 % 
-
-🌃 Evening                4725 commits        █████████░░░░░░░░░░░░░░░░   36.83 % 
-
-🌙 Night                  1849 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
-
+🌞 Morning                2017 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.72 % <br>
+🌆 Daytime                4239 commits        ████████░░░░░░░░░░░░░░░░░   33.04 % <br>
+🌃 Evening                4725 commits        █████████░░░░░░░░░░░░░░░░   36.83 % <br>
+🌙 Night                  1849 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.41 % <br>
 
 📅 I'm most productive on Sunday
 
-Monday                   1600 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
-Tuesday                  1844 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
-Wednesday                1733 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
-Thursday                 1499 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
-Friday                   1435 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
-Saturday                 1865 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
-Sunday                   2854 commits        ██████░░░░░░░░░░░░░░░░░░░   22.24 % 
+Monday                   1600 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % <br>
+Tuesday                  1844 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.37 % <br>
+Wednesday                1733 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % <br>
+Thursday                 1499 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % <br>
+Friday                   1435 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % <br>
+Saturday                 1865 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.54 % <br>
+Sunday                   2854 commits        ██████░░░░░░░░░░░░░░░░░░░   22.24 % <br>
 📊 This Week I Spent My Time On
 
-🕑︎ Time Zone: Asia/Dubai
+🕑︎ Time Zone: Europe/Asia
 
-💬 Programming Languages: 
-PHP                     15 mins             ████████████░░░░░░░░░░░░░   49.32 % 
-TypeScript               8 mins              ███████░░░░░░░░░░░░░░░░░░   27.69 % 
-.env file                4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
-Bash                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
+💬 Programming Languages: <br>
+PHP                     15 mins             ████████████░░░░░░░░░░░░░   49.32 % <br>
+TypeScript               8 mins              ███████░░░░░░░░░░░░░░░░░░   27.69 % <br>
+.env file                4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % <br>
+Bash                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % <br>
 
-🔥 Editors: 
-WebStorm                 30 mins             █████████████████████████   100.00 % 
+🔥 Editors: <br>
+WebStorm                 30 mins             █████████████████████████   100.00 % <br>
 
-💻 Operating System: 
-Mac                      30 mins             █████████████████████████   100.00 % 
+💻 Operating System: <br>
+Mac                      30 mins             █████████████████████████   100.00 % <br><br>
 I Mostly Code in JavaScript
 
-JavaScript               33 repos            █████████░░░░░░░░░░░░░░░░   35.87 % 
-TypeScript               20 repos            █████░░░░░░░░░░░░░░░░░░░░   21.74 % 
-Python                   7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
-MDX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
-HTML                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
-Last Updated on 03/06/2026 01:40:28 UTC
+JavaScript               33 repos            █████████░░░░░░░░░░░░░░░░   35.87 % <br>
+TypeScript               20 repos            █████░░░░░░░░░░░░░░░░░░░░   21.74 % <br>
+Python                   7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % <br>
+MDX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % <br>
+HTML                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % <br>
