@@ -12,11 +12,3 @@ Connect with me on <a href="https://www.linkedin.com/in/carles-siles/">LINKEDIN<
 </code></pre>
 
 🕑︎ Time Zone: Europe/Asia
-
-<pre lang="text" class="notranslate"><code>
-JavaScript               33 repos            █████████░░░░░░░░░░░░░░░░   35.87 % <br>
-TypeScript               20 repos            █████░░░░░░░░░░░░░░░░░░░░   21.74 % <br>
-Python                   7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % <br>
-MDX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % <br>
-HTML                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % <br>
-</code></pre>
