@@ -5,17 +5,15 @@
 <br>
 Connect with me:
 
-<a href="https://www.linkedin.com/in/carles-siles/">
+<a href="https://www.linkedin.com/in/carles-siles/">LINKEDIN</a>
 
 I'm a Night 🦉
 
 🌞 Morning                2017 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
-
 🌆 Daytime                4239 commits        ████████░░░░░░░░░░░░░░░░░   33.04 % 
-
 🌃 Evening                4725 commits        █████████░░░░░░░░░░░░░░░░   36.83 % 
-
 🌙 Night                  1849 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
+
 
 📅 I'm most productive on Sunday
 
